@@ -1,0 +1,33 @@
+{
+	"Usuario":[
+	{
+		"Nombre": "John",
+		"Apellido": "McEnroe",
+		"Edad": 53,
+		"Procedencia": "Glasgow",
+		"Location": {
+        	"lng": -3.7,
+        	"lat": 40.4
+		}
+	},
+	{
+		"Nombre": "Crispito",
+		"Apellido": "Perni",
+		"Edad": 68,
+		"Procedencia": "Roma",
+		"Location": {
+        	"lng": -3.72,
+        	"lat": 40.2
+		}
+	},
+	{
+		"Nombre": "Javier",
+		"Apellido": "Johanson",
+		"Edad": 43,
+		"Procedencia": "Estocolmo",
+		"Location": {
+        	"lng": -3.78,
+        	"lat": 40.3
+		}
+	}]
+}
